@@ -1,2 +1,2 @@
 # Tobby
-Petit robot qui vous tiens compagnie
+Petit robot qui vous tient compagnie
