@@ -44,7 +44,7 @@
     "serialport": "^8.0.7",
     "speaker": "^0.5.1",
     "ssh2": "^0.8.8",
-    "terminal-kit": "^1.32.3",
+    "terminal-kit": "^2.1.8",
     "text-to-mp3": "^1.0.4",
     "tslint-to-eslint-config": "^0.5.1",
     "uptimer": "^0.1.2",
